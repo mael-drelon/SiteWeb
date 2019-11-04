@@ -1,0 +1,15 @@
+.entete {
+    background-color: rgba(169, 185, 24, 0.74);
+    height: 7%;
+    width: 100%;
+    float: left
+}
+
+.underline {
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 0, 0)
+}
+
+.espace {
+    line-height: 250%;
+}
